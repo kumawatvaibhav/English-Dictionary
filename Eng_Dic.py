@@ -10,7 +10,7 @@ from subprocess import Popen
 import MyApi 
 
 #api response
-Popen("python MyApi.py")  
+Popen("python MyApi.py")  #running the api file to get data
 
 
 response = requests.get("http://127.0.0.1:5000/readfile")   
@@ -24,7 +24,6 @@ def getdata():
     disp.pack()
     disp.insert(END,data)
     print(data)
-
 
 #tkinter window setup
 root = CTk()
