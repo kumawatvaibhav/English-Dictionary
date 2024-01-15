@@ -45,9 +45,8 @@ To use the English Dictionary, follow these steps:
 The `MyApi` file contains the code of the API which is the backend for fetching word and their definitions. The API is fetching data from the file `dictionary_compact.json` and making it available to the local host. This api file will automatically run as you start the Main file[`Eng_Dic.py`] and fetch you the required data from the json file.
 
 ## Output
-<p align="middle">
-  <img src="./image.png" width="250" />
-</p>
+![Screenshot (36)](https://github.com/kumawatvaibhav/English-Dictionary/assets/118861839/fb069cc8-0ff7-4fbc-a6de-dbcccdd138cc)
+
 
 ## Contributing
 
