@@ -42,7 +42,7 @@ To use the English Dictionary, follow these steps:
 
 ## MyApi File
 
-The `MyApi` file contains the code of the API which is the backend for fetching word and their definitions. The API is fetching data from the file dictionary_compact.json and making it available to the local host. This api file will automatically run as you start the Main file[Eng-Dic.py] and fetch you the required data from the json file.
+The `MyApi` file contains the code of the API which is the backend for fetching word and their definitions. The API is fetching data from the file 'dictionary_compact.json' and making it available to the local host. This api file will automatically run as you start the Main file['Eng-Dic.py'] and fetch you the required data from the json file.
 
 
 
